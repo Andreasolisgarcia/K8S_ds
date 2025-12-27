@@ -3,7 +3,7 @@ kind: Service
 metadata:
   creationTimestamp: null
   labels:
-    app: db
+    app: postgres
   name: db
 spec:
   ports:
@@ -12,7 +12,7 @@ spec:
     protocol: TCP
     targetPort: 5432
   selector:
-    app: db
+    app: postgres
   type: ClusterIP
 status:
   loadBalancer: {}

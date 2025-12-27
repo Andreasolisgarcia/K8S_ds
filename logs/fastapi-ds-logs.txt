@@ -1,0 +1,30 @@
+INFO:     10.42.0.19:46078 - "GET /favicon.ico HTTP/1.1" 405 Method Not Allowed
+INFO:     10.42.0.19:54738 - "GET /openapi.json HTTP/1.1" 200 OK
+INFO:     10.42.0.19:54314 - "GET /users/0 HTTP/1.1" 200 OK
+INFO:     10.42.0.19:39574 - "GET /favicon.ico HTTP/1.1" 405 Method Not Allowed
+INFO:     10.42.0.19:37472 - "GET /favicon.ico HTTP/1.1" 405 Method Not Allowed
+INFO:     10.42.0.19:54200 - "GET /favicon.ico HTTP/1.1" 405 Method Not Allowed
+INFO:     10.42.0.19:48926 - "GET /users HTTP/1.1" 200 OK
+INFO:     10.42.0.19:48544 - "GET /users HTTP/1.1" 200 OK
+INFO:     10.42.0.19:48544 - "GET /users HTTP/1.1" 200 OK
+INFO:     10.42.0.19:35372 - "GET /favicon.ico HTTP/1.1" 405 Method Not Allowed
+INFO:     10.42.0.19:35714 - "GET /favicon.ico HTTP/1.1" 405 Method Not Allowed
+INFO:     10.42.0.19:36382 - "GET / HTTP/1.1" 200 OK
+INFO:     10.42.0.19:42558 - "GET /favicon.ico HTTP/1.1" 405 Method Not Allowed
+INFO:     10.42.0.19:42564 - "GET /favicon.ico HTTP/1.1" 405 Method Not Allowed
+INFO:     10.42.0.19:42622 - "GET /users/1 HTTP/1.1" 200 OK
+INFO:     10.42.0.19:40768 - "GET /users/1 HTTP/1.1" 200 OK
+INFO:     10.42.0.19:33612 - "POST / HTTP/1.1" 200 OK
+INFO:     10.42.0.19:39972 - "GET /favicon.ico HTTP/1.1" 405 Method Not Allowed
+INFO:     10.42.0.19:39972 - "GET /favicon.ico HTTP/1.1" 405 Method Not Allowed
+INFO:     10.42.0.19:46886 - "GET /favicon.ico HTTP/1.1" 405 Method Not Allowed
+INFO:     10.42.0.19:56914 - "GET / HTTP/1.1" 200 OK
+INFO:     10.42.0.19:48600 - "GET /docs HTTP/1.1" 200 OK
+INFO:     10.42.0.19:43334 - "GET /users/1 HTTP/1.1" 200 OK
+INFO:     10.42.0.19:34878 - "GET /users HTTP/1.1" 200 OK
+INFO:     10.42.0.19:34886 - "GET /users/count HTTP/1.1" 200 OK
+INFO:     10.42.0.19:42904 - "GET /users/1 HTTP/1.1" 200 OK
+INFO:     10.42.0.19:34392 - "GET /users/ HTTP/1.1" 307 Temporary Redirect
+INFO:     10.42.0.19:34392 - "GET /favicon.ico HTTP/1.1" 405 Method Not Allowed
+INFO:     10.42.0.19:59522 - "GET /users/1 HTTP/1.1" 200 OK
+INFO:     10.42.0.19:33746 - "GET /users/count HTTP/1.1" 200 OK
